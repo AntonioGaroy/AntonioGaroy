@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hola 👋
+🌱 Estoy practicando ejecicios en C, C++, python, etc... lo iré subiendo a mi perfil de Github. 
+Reciban un cordial saludo.
 
 <!--
 **AntonioGaroy/AntonioGaroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
